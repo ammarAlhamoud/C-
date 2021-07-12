@@ -1,0 +1,53 @@
+﻿<Window x:Class="WpfApp_presentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_presentation"
+        xmlns:Sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        x:Name="me" MouseDoubleClick="Me_MouseDoubleClick" >
+    <Window.Resources>
+        <Sys:String x:Key="strHelloWorld">Hello WPF</Sys:String>
+    </Window.Resources>
+
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="my Name" />
+            <TextBox Text="{Binding Path= Name}" Width=" 150" />
+
+
+
+
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="my age" />
+            <TextBox Text="{Binding Path=Age }" Width="50" />
+            <Button Content="+1" Command="{Binding IncreaseAgeCommand}"></Button>
+        </StackPanel>
+
+        <TextBlock Text="{StaticResource strHelloWorld}" FontSize="56" />
+        <TextBlock>just another</TextBlock>
+        <TextBlock Text="{StaticResource strHelloWorld}" ></TextBlock>
+
+
+
+        <ItemsControl ItemsSource="{Binding Combokers}" Background="Gray" >
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="{Binding Name, StringFormat=' - {0} - ' }"/>
+                        <TextBlock Text="{Binding Age, StringFormat=' - {0} years old - ' }"/>
+
+
+                    </StackPanel>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+
+        </ItemsControl>
+        </StackPanel>
+</Window>
+
+

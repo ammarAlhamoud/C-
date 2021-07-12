@@ -1,0 +1,15 @@
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\bin\Debug\WpfApp_presentation.exe.config
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\bin\Debug\WpfApp_presentation.exe
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\bin\Debug\WpfApp_presentation.pdb
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation.csprojAssemblyReference.cache
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\MainWindow.g.cs
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\App.g.cs
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation_MarkupCompile.cache
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation_MarkupCompile.lref
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\MainWindow.baml
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation.g.resources
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation.Properties.Resources.resources
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation.csproj.GenerateResource.cache
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation.csproj.CoreCompileInputs.cache
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation.exe
+C:\Users\ammar.almahoud\source\repos\WpfApp_presentation\WpfApp_presentation\obj\Debug\WpfApp_presentation.pdb
