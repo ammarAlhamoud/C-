@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="b60d3ec6-e8dc-49cf-834b-f3379f0ed3ac"
+  name="MonopolyModeling" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="f653c4e2-6864-4386-9f4d-cba044ff41da"
+        LastKnownName="Commands"
+        LastKnownLocation="Package_1108.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="99b79fb7-b41f-4109-a830-76ead04fcaf0"
+        LastKnownName="Logic"
+        LastKnownLocation="Package_1109.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="e3d7860f-1fd5-4dff-b643-20a03952ea6a"
+        LastKnownName="Model"
+        LastKnownLocation="Package1_1109.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="4e77f999-a9e2-420b-96a4-1c5c28ba8032"
+        LastKnownName="Responses"
+        LastKnownLocation="Package2_1109.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="950833fe-4bf9-44e2-807d-bb3c2bd1f44b"
+        LastKnownName="States"
+        LastKnownLocation="Package3_1109.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

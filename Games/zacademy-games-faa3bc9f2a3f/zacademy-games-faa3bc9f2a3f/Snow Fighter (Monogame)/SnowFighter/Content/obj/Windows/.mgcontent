@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Sound3.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Sound4.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Sound5.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Sound6.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/SplashScreen.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/StartHover.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/StartNormal.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Credits.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/CreditsHover.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/CreditsNormal.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/ErrorSound.wav</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/ExitHover.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/ExitNormal.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/ExitToMenuHover.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/ExitToMenuNormal.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/GameOverBackground.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/HealthbarEmpty.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/HealthbarFull.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/HealthPack.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/HealthPackSound.wav</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/IceBlock.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/IceCube.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Level1Background.jpg</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Level2Background.jpg</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Level3Background.jpg</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/MenuBackground.jpg</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/MenuMoveSound.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/MenuSound.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/OptionsHover.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/OptionsNormal.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/PausedBackground.jpg</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/PileOfSnow.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Player1.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Player1WINS.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Player2.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Player2WINS.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/PlayerSpriteSheet.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/PressAnyKey.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/ResumeHover.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/ResumeNormal.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Snowball.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/SnowballBarEmpty.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/SnowballBarFull.png</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/SnowballHit.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/SnowImpactOnBlock.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Sound1.mp3</File>
+    <File>C:/Users/Academy/source/repos/SnowFighter/SnowFighter/Content/Sound2.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

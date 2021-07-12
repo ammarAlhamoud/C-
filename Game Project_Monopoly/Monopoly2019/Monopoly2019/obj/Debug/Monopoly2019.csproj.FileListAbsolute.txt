@@ -1,0 +1,66 @@
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.exe.config
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.exe
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.pdb
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csprojAssemblyReference.cache
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\MainWindow.g.cs
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\App.g.cs
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019_MarkupCompile.cache
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019_MarkupCompile.lref
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\MainWindow.baml
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.g.resources
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.Properties.Resources.resources
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.GenerateResource.cache
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.CoreCompileInputs.cache
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.exe
+C:\Users\ammar.almahoud\source\repos\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.pdb
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.exe.config
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.exe
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.pdb
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csprojAssemblyReference.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\App.g.cs
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019_MarkupCompile.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019_MarkupCompile.lref
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.g.resources
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.Properties.Resources.resources
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.GenerateResource.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.CoreCompileInputs.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.exe
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.pdb
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Views\ShellView.g.cs
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.dll
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.Core.dll
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.dll
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\System.Windows.Interactivity.dll
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.xml
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.xml
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.Core.xml
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\App.baml
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Views\ShellView.baml
+Z:\Alhamoud\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.CopyComplete
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.exe.config
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.exe
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Monopoly2019.pdb
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.dll
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.dll
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\System.Windows.Interactivity.dll
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.xml
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.xml
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csprojAssemblyReference.cache
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Views\ShellView.g.cs
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\App.g.cs
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019_MarkupCompile.cache
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019_MarkupCompile.lref
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\App.baml
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Views\ShellView.baml
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.g.resources
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.Properties.Resources.resources
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.GenerateResource.cache
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.CoreCompileInputs.cache
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.csproj.CopyComplete
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.exe
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019.pdb
+D:\C#\Game Project_Monopoly\Monopoly2019\Monopoly2019\obj\Debug\Monopoly2019_Content.g.cs

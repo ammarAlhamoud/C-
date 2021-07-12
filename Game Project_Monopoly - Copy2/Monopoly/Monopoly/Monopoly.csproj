@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2A3B704-2F48-49AD-A7BF-AA652F9DAD1A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Monopoly</RootNamespace>
+    <AssemblyName>Monopoly</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Models\BuyableProperty.cs" />
+    <Compile Include="Models\Chance.cs" />
+    <Compile Include="Models\ChanceOrCommunityChest.cs" />
+    <Compile Include="Models\Computer.cs" />
+    <Compile Include="Models\Factory.cs" />
+    <Compile Include="Models\GameManager.cs" />
+    <Compile Include="Models\GoBox.cs" />
+    <Compile Include="Models\GoToJail.cs" />
+    <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\PLayer.cs" />
+    <Compile Include="Models\PlayerBase.cs" />
+    <Compile Include="Models\Player_Manager.cs" />
+    <Compile Include="Models\PropertyBase.cs" />
+    <Compile Include="Models\Property_Manager.cs" />
+    <Compile Include="Models\Station.cs" />
+    <Compile Include="Models\Street.cs" />
+    <Compile Include="Models\TaxBox.cs" />
+    <Compile Include="ObservableCollection.cs" />
+    <Compile Include="RelayCommand.cs" />
+    <Compile Include="ViewModels\BasicViewModel.cs" />
+    <Compile Include="ViewModels\GameManagerViewModel.cs" />
+    <Compile Include="ViewModels\PlayerAndPropertyViewModel.cs" />
+    <Page Include="MonopolyView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MonopolyView.xaml.cs">
+      <DependentUpon>MonopolyView.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\breakLine.png" />
+    <Resource Include="Images\build house.png" />
+    <Resource Include="Images\Button Background.png" />
+    <Resource Include="Images\chance.png" />
+    <Resource Include="Images\Communit-y Chest.gif" />
+    <Resource Include="Images\dice Button.jpg" />
+    <Resource Include="Images\Dice1.png" />
+    <Resource Include="Images\Dice2.png" />
+    <Resource Include="Images\Electric Company.gif" />
+    <Resource Include="Images\figur Blue.png" />
+    <Resource Include="Images\figur players.png" />
+    <Resource Include="Images\figur red.png" />
+    <Resource Include="Images\figur yello.png" />
+    <Resource Include="Images\figurGreen.png" />
+    <Resource Include="Images\free parking.gif" />
+    <Resource Include="Images\Go to Jail.png" />
+    <Resource Include="Images\GoCard.gif" />
+    <Resource Include="Images\hous green.png" />
+    <Resource Include="Images\house red.png" />
+    <Resource Include="Images\in Jail.png" />
+    <Resource Include="Images\Income Tax.jpg" />
+    <Resource Include="Images\Luxury Tax.png" />
+    <Resource Include="Images\Monopoly Logo.png" />
+    <Resource Include="Images\Monopoly_Go_Arrow.png" />
+    <Resource Include="Images\mortgage property.png" />
+    <Resource Include="Images\TrainStation.png" />
+    <Resource Include="Images\Water Works.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Button Background_unenable.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

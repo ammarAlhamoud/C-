@@ -1,0 +1,45 @@
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\MonopolyView.g.cs
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\App.g.cs
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.lref
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\MonopolyView.baml
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.g.resources
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+Z:\Alhamoud\Game Project_Monopoly\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\MonopolyView.g.cs
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\App.g.cs
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.cache
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.lref
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\MonopolyView.baml
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.g.resources
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+Z:\Alhamoud\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\MonopolyView.g.cs
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\App.g.cs
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.cache
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly_MarkupCompile.lref
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\MonopolyView.baml
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.g.resources
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+D:\C#\Game Project_Monopoly - Copy2\Monopoly\Monopoly\obj\Debug\Monopoly.pdb

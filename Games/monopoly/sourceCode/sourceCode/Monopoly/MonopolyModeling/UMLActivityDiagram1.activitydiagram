@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="863350b6-1bd7-4b94-9ed3-677c15daacd4" name="player wants to make a move" linkedPackageId="d24ce050-2c77-4751-beea-92aad48104e6" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <ownedCommentsInternal>
+    <comment Id="9cad47fb-7d8f-49f2-a77b-2539e1507161">
+      <elementDefinition Id="f33fce2a-f606-418e-80fd-1eaedbb8ff74" />
+      <body>UI</body>
+    </comment>
+    <comment Id="aaa285f5-3a1c-454a-8578-4f6919a72f81">
+      <elementDefinition Id="0aabf8ff-8200-4b63-9d13-8ad01c8ba427" />
+      <body>WCF</body>
+    </comment>
+    <comment Id="eff342a8-6aaf-4a0a-9888-4710027d4559">
+      <elementDefinition Id="aa7f9b32-907e-48e9-b7ad-04660a3b2405" />
+      <body>Server Logic</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="c986346c-717c-4b0a-b2b2-d7411006bc66">
+      <profileInstance Id="a96ea699-af2d-4347-bc1c-840f140e992d" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="2a6f0e95-78d3-4e34-9691-3f190bd58700">
+      <profileInstance Id="0df03cf7-63ff-47a3-9b74-f90c072f2988" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="4233c1be-9740-48ba-86a9-d3af925286a0" name="player wants to make a move" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="c111d139-9b1d-498f-aa78-f2225c8d7b2c" />
+        <nodes>
+          <initialNode Id="f4777c1d-33e6-4bdb-b9b1-54d1aed50184" name="Initial1" isLeaf="false">
+            <elementDefinition Id="2ba19326-8531-4c42-a8e3-f331703c69fa" />
+            <flowNodeTargets>
+              <controlFlow Id="29f09764-1d5c-4418-b2a1-f878a823ef7a" isLeaf="false">
+                <opaqueActionMoniker Id="c982069b-8ee8-4e7d-96a8-cb8268b147e4" LastKnownName="Player Requested a Move" />
+                <elementDefinition Id="55b3b523-8bff-4250-85f2-6ebcbf607f4b" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction Id="c982069b-8ee8-4e7d-96a8-cb8268b147e4" name="Player Requested a Move" isLeaf="false">
+            <elementDefinition Id="9b8f7fa1-500f-4eda-ad18-60f0b98a9251" />
+            <flowNodeTargets>
+              <controlFlow Id="ea40521b-d754-4270-8956-438067f7e9e8" isLeaf="false">
+                <forkNodeMoniker Id="77fcfaba-75cd-4b02-952d-4b18291bbefa" LastKnownName="Fork1" />
+                <elementDefinition Id="9fda6041-ad07-48cb-be00-fff0ad212185" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <forkNode Id="77fcfaba-75cd-4b02-952d-4b18291bbefa" name="Fork1" isLeaf="false">
+            <elementDefinition Id="7465a279-8e01-4d2c-bc64-fa0146585e2e" />
+            <flowNodeTargets>
+              <controlFlow Id="2d810361-a835-4a01-bc5a-cd8635334480" isLeaf="false">
+                <opaqueActionMoniker Id="15f0fa54-9fae-4aa2-b39e-9c0a4cfad511" LastKnownName="Update UI to waiting mode" />
+                <elementDefinition Id="cdd305f6-d3a0-4fa0-8fee-2aecc1196822" />
+              </controlFlow>
+              <controlFlow Id="6bc87f90-14c1-41ef-be27-db3e5bf7c8a7" isLeaf="false">
+                <opaqueActionMoniker Id="419341c9-373b-45c9-9d83-01778cbfcc30" LastKnownName="Send Move information to server" />
+                <elementDefinition Id="20912753-e302-4f3b-afc9-70c7ea425d3a" />
+              </controlFlow>
+            </flowNodeTargets>
+          </forkNode>
+          <opaqueAction Id="15f0fa54-9fae-4aa2-b39e-9c0a4cfad511" name="Update UI to waiting mode" isLeaf="false">
+            <elementDefinition Id="2cd66d4d-a06e-413b-91a1-56bfb5b339ac" />
+          </opaqueAction>
+          <opaqueAction Id="419341c9-373b-45c9-9d83-01778cbfcc30" name="Send Move information to server" isLeaf="false">
+            <elementDefinition Id="636e10de-c921-4871-a287-e9ee757e4a46" />
+            <flowNodeTargets>
+              <controlFlow Id="a886fc58-5dc8-4e56-af9d-e712de327bea" isLeaf="false">
+                <opaqueActionMoniker Id="c96a5763-db74-48b4-8528-119dbcada3da" LastKnownName="Validate move on game state" />
+                <elementDefinition Id="7cc53369-d39b-408b-bee3-8b100a47aa6d" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="c96a5763-db74-48b4-8528-119dbcada3da" name="Validate move on game state" isLeaf="false">
+            <elementDefinition Id="3c56006e-5902-4c6c-bf32-ad297cf4209d" />
+            <flowNodeTargets>
+              <controlFlow Id="727defa4-f4cf-43ba-8efd-a71f7e200da2" isLeaf="false">
+                <decisionNodeMoniker Id="62db9917-b531-4c2c-81e8-bf6b239dbd4c" LastKnownName="Decision1" />
+                <elementDefinition Id="adc425dc-60b2-4afb-aa12-a57914c375a8" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode Id="62db9917-b531-4c2c-81e8-bf6b239dbd4c" name="Decision1" isLeaf="false">
+            <elementDefinition Id="294c6e1c-ea0a-4f37-8a9e-b8d530f021af" />
+            <flowNodeTargets>
+              <controlFlow Id="6c3f0606-b74f-4257-93c0-a1240bf85ba1" guard="invalid" isLeaf="false">
+                <opaqueActionMoniker Id="34f07d70-cb1c-4644-9c45-4fc453acd8be" LastKnownName="Return InvalidMove object to client" />
+                <elementDefinition Id="e8701e18-daaf-4200-ad10-340b10f08feb" />
+              </controlFlow>
+              <controlFlow Id="aeadb932-d238-4c94-9983-73c12eba84ae" guard="valid" isLeaf="false">
+                <opaqueActionMoniker Id="394bc393-1610-467f-8429-290ae82a3527" LastKnownName="Update game state" />
+                <elementDefinition Id="460f98cd-2eb3-465f-a24c-ea0c236d4501" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction Id="34f07d70-cb1c-4644-9c45-4fc453acd8be" name="Return InvalidMove object to client" isLeaf="false">
+            <elementDefinition Id="69b95cf8-4fcb-4a1a-86e9-e2e545561b40" />
+            <flowNodeTargets>
+              <controlFlow Id="501428e6-af75-4f0c-bc3f-24d28560416a" isLeaf="false">
+                <joinNodeMoniker Id="817ee2b0-ae32-409c-8721-5895faa52ddd" LastKnownName="Join1" />
+                <elementDefinition Id="411422d5-e9ef-40dc-a11b-ae47cf1cc1c2" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="394bc393-1610-467f-8429-290ae82a3527" name="Update game state" isLeaf="false">
+            <elementDefinition Id="9588a6ca-1fbd-40a9-8c8b-105f76628093" />
+            <flowNodeTargets>
+              <controlFlow Id="e625ae4b-f2e1-4da4-9eea-328385d2e484" isLeaf="false">
+                <forkNodeMoniker Id="8a1b2e64-b284-405c-85b9-3eba7817018b" LastKnownName="Fork2" />
+                <elementDefinition Id="681f4f10-662e-4446-b2d7-15384653fa9c" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="8384cbbf-8b8d-4c23-a579-56d3a7c1a1ec" name="Return MoveAccepted object to client" isLeaf="false">
+            <elementDefinition Id="fa09b454-a279-436e-89ec-1e2fa4540e79" />
+            <flowNodeTargets>
+              <controlFlow Id="44c936a2-6d9e-41a9-a394-92fa25671a08" isLeaf="false">
+                <joinNodeMoniker Id="817ee2b0-ae32-409c-8721-5895faa52ddd" LastKnownName="Join1" />
+                <elementDefinition Id="2346b661-939b-4563-9b30-6ffe23821820" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <forkNode Id="8a1b2e64-b284-405c-85b9-3eba7817018b" name="Fork2" isLeaf="false">
+            <elementDefinition Id="e6860dfe-e8e4-4a8c-966b-2cbb46f8b489" />
+            <flowNodeTargets>
+              <controlFlow Id="322dc4f0-2f3f-4511-847e-10fad7480974" isLeaf="false">
+                <opaqueActionMoniker Id="8384cbbf-8b8d-4c23-a579-56d3a7c1a1ec" LastKnownName="Return MoveAccepted object to client" />
+                <elementDefinition Id="5786e4e9-821e-4f52-ab03-e9a4601da2a8" />
+              </controlFlow>
+              <controlFlow Id="b2aeee50-a441-4b44-a36a-8cebb7b4db7f" isLeaf="false">
+                <opaqueActionMoniker Id="b4d1622a-6ada-4387-9960-d8894eb258eb" LastKnownName="Send Move to all other Players" />
+                <elementDefinition Id="e0c01af6-f521-465b-b060-41948bacec82" />
+              </controlFlow>
+            </flowNodeTargets>
+          </forkNode>
+          <joinNode Id="817ee2b0-ae32-409c-8721-5895faa52ddd" name="Join1" isLeaf="false">
+            <elementDefinition Id="f7de120b-60bd-4903-afa6-2a0bdcf66700" />
+            <flowNodeTargets>
+              <controlFlow Id="19d1154c-758a-4c7b-aaca-a1925ab401da" isLeaf="false">
+                <opaqueActionMoniker Id="46d032ab-f8c1-47fa-b858-92f57c0c0909" LastKnownName="Remove UI Waiting mode" />
+                <elementDefinition Id="2d49eb01-b569-4a31-9265-0887b675b82a" />
+              </controlFlow>
+            </flowNodeTargets>
+          </joinNode>
+          <opaqueAction Id="0aed21a1-b146-48b0-8550-bba7d5aaf944" name="Apply move on UI" isLeaf="false">
+            <elementDefinition Id="4d2d6905-e6f8-4d1f-ba2f-cac84695e40a" />
+            <flowNodeTargets>
+              <controlFlow Id="33b517d3-fdc2-43ad-9c82-70bacd2b9be2" isLeaf="false">
+                <activityFinalNodeMoniker Id="a3050185-9b85-46b0-ae16-79f2d4094eb8" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="fad244a0-f33a-49c4-9b38-06a1c60a2a64" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="b4d1622a-6ada-4387-9960-d8894eb258eb" name="Send Move to all other Players" isLeaf="false">
+            <elementDefinition Id="0845ef8f-a49c-4797-ae45-b547d44d9756" />
+            <flowNodeTargets>
+              <controlFlow Id="b110c58a-974a-44e9-a23a-ede6565a9136" isLeaf="false">
+                <joinNodeMoniker Id="817ee2b0-ae32-409c-8721-5895faa52ddd" LastKnownName="Join1" />
+                <elementDefinition Id="03765700-5917-4233-bfb7-8d81b3bce168" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="46d032ab-f8c1-47fa-b858-92f57c0c0909" name="Remove UI Waiting mode" isLeaf="false">
+            <elementDefinition Id="6ac1c0f4-804b-448c-9345-f6a526655d52" />
+            <flowNodeTargets>
+              <controlFlow Id="27e69f9a-ad30-497a-a5d6-f7ce44f8105a" isLeaf="false">
+                <opaqueActionMoniker Id="0aed21a1-b146-48b0-8550-bba7d5aaf944" LastKnownName="Apply move on UI" />
+                <elementDefinition Id="d537d7ff-64e2-4581-9882-de21ea3a32f3" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <activityFinalNode Id="a3050185-9b85-46b0-ae16-79f2d4094eb8" name="ActivityFinal1" isLeaf="false">
+            <elementDefinition Id="614ab9a8-d4e5-433d-8049-696053dac0ad" />
+          </activityFinalNode>
+        </nodes>
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="d24ce050-2c77-4751-beea-92aad48104e6" name="MonopolyModeling">
+    <elementDefinition Id="af72fe22-3146-4342-8e2d-7be0947a0bc5" />
+  </package>
+</activityRootModel>
